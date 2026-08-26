@@ -34,7 +34,7 @@ An elegant, modern, and print-optimized single-page Developer Resume/CV built us
 Clone the repository:
 
 Bash
-git clone [https://github.com/jahir-tawhid/my-cv.git](https://github.com/jahir-tawhid/my-cv.git)
+git clone [https://github.com/jahir-tawhid/my-cv.git](https://jahir-tawhid.github.io/my-cv/)
 Navigate to project directory:
 
 Bash
