@@ -58,8 +58,10 @@ Scale: Custom (90% or 95%)
 Background graphics: Checked ✅ (Important for badge styling)
 
 Click Save.
+---
 
 📬 Contact Information
+
 Name: Md. Jahirul Islam
 
 Role: Full-Stack Web Developer | Next.js & React Specialist
@@ -71,5 +73,5 @@ Email: jahirtawhid1988@gmail.com
 🌐 Live Portfolio: my-portfolio-rouge-rho-73.vercel.app
 
 LinkedIn: linkedin.com/in/jahirtawhid
-
+---
 Feel free to star ⭐️ this repository if you find it helpful!
