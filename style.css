@@ -1,0 +1,186 @@
+@page {
+  size: A4;
+  margin: 15mm 20mm;
+}
+/* Contact Links Styling */
+.contact-info a {
+  color: #2563eb;
+  text-decoration: underline;
+  cursor: pointer !important;
+  pointer-events: auto !important;
+  position: relative;
+  z-index: 10;
+}
+
+.contact-info a:hover {
+  color: #1d4ed8;
+}
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #1f2937;
+  line-height: 1.4;
+  font-size: 9.5pt;
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 30px;
+  background-color: #ffffff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.08);
+  border: 1px solid #cbd5e1;
+  border-radius: 6px;
+}
+/* @media print {
+  body {
+    box-shadow: none;
+    margin: 0;
+    padding: 10px;
+    max-width: 100%;
+  }
+} */
+/* Base Header Layout */
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px solid #2563eb;
+  padding-bottom: 12px;
+  margin-bottom: 12px;
+}
+
+.header-text {
+  width: 78%;
+}
+.header-text h1 {
+  font-size: 22pt;
+  margin: 0;
+  color: #1e3a8a;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  font-weight: 800;
+}
+.header-text h2 {
+  font-size: 11pt;
+  margin: 3px 0 8px 0;
+  color: #041f06f6;
+  font-weight: 700;
+}
+.contact-info {
+  font-size: 9pt;
+  color: #4b5563;
+  line-height: 1.5;
+}
+.contact-info a {
+  color: #2563eb;
+  text-decoration: none;
+  font-weight: 500;
+  cursor: pointer !important;
+  pointer-events: auto !important;
+  position: relative;
+  z-index: 99;
+}
+
+/* Profile Photo */
+.profile-photo {
+  width: 95px;
+  height: 95px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #2563eb;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.relocation-badge {
+  display: inline-block;
+  margin-top: 6px;
+  padding: 3px 10px;
+  background-color: #fef2f2;
+  color: #991b1b;
+  border: 2px solid #42d33581;
+  border-radius: 6px;
+  font-size: 8pt;
+  font-weight: 800;
+  font-style: normal;
+}
+
+/* Section Header Styling */
+.section-title {
+  font-size: 10.5pt;
+  font-weight: 800;
+  color: #1e3a8a;
+  text-transform: uppercase;
+  border-bottom: 2px solid #e5e7eb;
+  padding-bottom: 2px;
+  margin-top: 10px;
+  margin-bottom: 6px;
+  letter-spacing: 0.5px;
+}
+
+p {
+  margin: 0 0 4px 0;
+  text-align: justify;
+}
+
+ul {
+  margin: 3px 0 6px 16px;
+  padding: 0;
+}
+li {
+  margin-bottom: 3px;
+}
+
+/* Project & Experience Blocks */
+.item-block {
+  margin-bottom: 8px;
+}
+
+.project-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 2px;
+}
+
+.project-name {
+  color: #078b07f5;
+  font-weight: 700;
+  font-size: 10pt;
+}
+.job-title {
+  color: #011f04dc;
+  font-weight: 700;
+  font-size: 10pt;
+}
+.project-tech {
+  font-style: italic;
+  font-size: 8.5pt;
+  color: #010611;
+  font-weight: 500;
+  text-align: right;
+}
+
+/* Flex Rows */
+.flex-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+.company-name {
+  color: #6b806c;
+  font-weight: 600;
+  font-size: 9.5pt;
+  margin-bottom: 2px;
+}
+.date-badge {
+  font-size: 8.5pt;
+  color: #6b806c;
+  font-weight: 600;
+}
+
+/* Print Optimization */
+@media print {
+  body {
+    margin: 0;
+    padding: 0;
+    box-shadow: none;
+    max-width: 100%;
+  }
+}
