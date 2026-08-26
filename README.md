@@ -71,7 +71,7 @@ Location: Gazipur, Dhaka, Bangladesh
 
 Email: jahirtawhid1988@gmail.com
 
-🌐 Live Portfolio: my-portfolio-rouge-rho-73.vercel.app
+🌐 **Live Portfolio:** [my-portfolio-rouge-rho-73.vercel.app](https://my-portfolio-rouge-rho-73.vercel.app)
 
 LinkedIn: linkedin.com/in/jahirtawhid
 
