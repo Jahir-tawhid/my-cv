@@ -68,7 +68,7 @@ Location: Gazipur, Dhaka, Bangladesh
 
 Email: jahirtawhid1988@gmail.com
 
-Portfolio: jahir-tawhid.github.io/my-portfolio
+🌐 Live Portfolio: my-portfolio-rouge-rho-73.vercel.app
 
 LinkedIn: linkedin.com/in/jahirtawhid
 
